@@ -1,0 +1,15 @@
+number of splits:2
+map 0% reduce 0%
+map 100% reduce 0%
+map 100% reduce 100%
+Job job_local518773391_0001 completed successfully
+
+Map input records=1458645
+Map output records=1458644
+Combine input records=1458644
+Combine output records=48
+Reduce input groups=24
+Reduce output records=24
+Failed Shuffles=0
+Bytes Read=200593193
+Bytes Written=216

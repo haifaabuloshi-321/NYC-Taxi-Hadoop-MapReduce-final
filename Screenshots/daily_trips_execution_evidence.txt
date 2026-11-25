@@ -1,0 +1,20 @@
+DAILY TRIPS - MAPREDUCE EXECUTION EVIDENCE
+
+Job ID: job_local785493857_0001
+Number of splits: 2
+Map progress: 100%
+Reduce progress: 100%
+Job status: completed successfully
+
+Map input records: 1458645
+Map output records: 1458644
+Combine input records: 1458644
+Combine output records: 364
+Reduce input groups: 182
+Reduce input records: 364
+Reduce output records: 182
+Failed shuffles: 0
+
+HDFS bytes read (job counters): 535408210
+File input bytes read: 200593193
+HDFS bytes written: 2912

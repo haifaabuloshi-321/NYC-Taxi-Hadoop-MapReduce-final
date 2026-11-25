@@ -1,0 +1,20 @@
+PASSENGER DISTRIBUTION - MAPREDUCE EXECUTION EVIDENCE
+
+Job ID: job_local184044982_0001
+Number of splits: 2
+Map progress: 100%
+Reduce progress: 100%
+Job status: completed successfully
+
+Map input records: 1458645
+Map output records: 1458644
+Combine input records: 1458644
+Combine output records: 17
+Reduce input groups: 10
+Reduce input records: 17
+Reduce output records: 10
+Failed shuffles: 0
+
+HDFS bytes read (job counters): 535408210
+File input bytes read: 200593193
+HDFS bytes written: 68

@@ -1,0 +1,17 @@
+AVERAGE DURATION BY HOUR - MAPREDUCE EXECUTION EVIDENCE
+
+Job ID: job_local949652923_0001
+Number of splits: 2
+Map progress: 100%
+Reduce progress: 100%
+Job status: completed successfully
+
+Map input records: 1458645
+Map output records: 1458644
+Combine input records: 1458644
+Combine output records: 48
+Reduce input groups: 24
+Reduce output records: 24
+Failed shuffles: 0
+HDFS bytes read: 200593193
+HDFS bytes written: 246
